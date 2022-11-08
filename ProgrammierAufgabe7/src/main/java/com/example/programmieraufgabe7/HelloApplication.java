@@ -44,7 +44,7 @@ public class HelloApplication extends Application {
             public void handle(ActionEvent actionEvent) {
                 if((radioButton13.isSelected())&&(radioButton22.isSelected())&&(radioButton31.isSelected()))
                 {
-                    ergebnisZeigen.setText("Sie haben gewonnen !!");
+                    ergebnisZeigen.setText("Sie haben gewonnen !!!");
                 }
                 else
                 {
